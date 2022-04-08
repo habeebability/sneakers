@@ -141,3 +141,16 @@ productButton.addEventListener("click", () => {
 close.addEventListener("click", () => {
   payment.style.display = "none";
 });
+
+// const burger = document.querySelector(".burger");
+// const navBottom = document.querySelector(".navBottom");
+
+// burger.addEventListener("click", () => {
+//   if (navBottom.style.display == "none") {
+//     navBottom.style.display = "flex";
+//     navBottom.style.flexDirection = "column";
+//     navBottom.style.cursor = "pointer";
+//   } else {
+//     navBottom.style.display = "none";
+//   }
+// });
